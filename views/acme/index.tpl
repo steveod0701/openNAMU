@@ -33,8 +33,7 @@
         <meta name="twitter:title" content="{{imp[0]}}">
         <meta name="twitter:site" content="@{{imp[1][0]}}">
         <meta name="twitter:card" content="summary">
-        <link rel="shortcut icon" href="/views/acme
-        /img/on.ico">
+        <link rel="shortcut icon" href="/views/acme/img/on.ico">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
