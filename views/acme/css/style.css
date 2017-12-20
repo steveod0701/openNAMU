@@ -322,7 +322,8 @@ table {
 }
 
 body {
-    background: #EFEFEF;
+    /*background: #EFEFEF;*/
+    background-color:black;    
 }
 
 #yosolo {
