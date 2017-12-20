@@ -1,5 +1,5 @@
 #logo:hover, #logo:focus {
-    color: #B2DFEA;
+    color: #9d2235;
 }
 
 #in {
@@ -7,7 +7,7 @@
 }
 
 #out {
-    margin-left: 5000px;
+    margin-left: 5px;
 }
 
 table#toron tbody tr td {
@@ -16,7 +16,7 @@ table#toron tbody tr td {
 }
 
 #redirect {
-    margin-top: -2500000px;
+    margin-top: -25px;
 }
 
 #log {
@@ -36,11 +36,11 @@ table#toron tbody tr td {
 }
 
 #log:hover, #log:focus {
-    color: #B2DFEA;
+    color: #9d2235;
 }
 
 a#inside {
-    color: green;
+    color: red;
 }
 
 #cate {
@@ -74,11 +74,11 @@ li {
 
 .contect {
     color: #FFFFFF;
-    background-color: #008000;
+    background-color: red;
 }
 
 .out_link {
-    color: #008000;
+    color: red;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -91,8 +91,8 @@ td:hover {
 
 ref {
     background-color: #efefef;
-    color: #555555;
-    border: 1px solid #cecece;
+    color: #53565a;
+    border: 1px solid #8a8d8f;
     font-size: 0.8rem;
     margin-left: 0.1rem;
     margin-right: 0.2rem;
@@ -108,8 +108,8 @@ blockquote {
     background:#eeeeee;
     display:table;
     border:2px dashed #ccc;
-    border-left:5px solid #52A9BD;
-    background-image: url('/views/yousoro/img/quote.png');
+    border-left:5px solid #002855;
+    background-image: url('/views/acme/img/quote.png');
     background-position:calc(100% - 10px) 10px;
     background-repeat:no-repeat;
     background-size:25px;
@@ -157,13 +157,13 @@ s, strike, del {
 pre {
     padding: 7px;
     background-color: #eeeeee;
-    border: 1px solid #dddddd;
+    border: 1px solid #8a8d8f;
     border-radius: 3px;
     overflow-x: auto;
     display: block;
     font-size: 90%;
     line-height: 1.5;
-    color: #373a3c;
+    color: #53565a;
     white-space: pre-wrap;
 }
 
@@ -225,7 +225,7 @@ div.scroll-buttons a {
     width: 42px;
     height: 42px;
     padding: 5px 8px 9px 8px;
-    border: 1px solid #545454;
+    border: 1px solid #53565a;
     border-left: 0;
     text-decoration: none;
     text-align: center;
@@ -323,7 +323,7 @@ table {
 
 body {
     /*background: #EFEFEF;*/
-    background-color: black;    
+    background: black;
 }
 
 #yosolo {
@@ -344,7 +344,7 @@ body {
 }
 
 #toron_color {
-    background-color: #d5d5d5;
+    background-color: #8a8d8f;
 }
 
 #bb {
@@ -415,11 +415,11 @@ textarea {
 }
 
 a.not_thing {
-    color: #bf4c4c;
+    color: #9d2235;
 }
 
 #open {
-    background: #B2DFEA;
+    background: #002855;
     text-shadow: none;
 }
 
@@ -441,7 +441,7 @@ pre span {
 
 #RecentChanges:hover, #RecentChanges:focus {        
     text-decoration: none;        
-    color: #B2DFEA;        
+    color: #002855;
 }
 
 #RecentChanges {        
